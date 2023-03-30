@@ -18,5 +18,11 @@
     <ClCompile Include="동전 개수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="동전개수(수정).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="가짜 동전.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
